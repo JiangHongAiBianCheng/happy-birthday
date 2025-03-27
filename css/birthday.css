@@ -1,13 +1,6 @@
 #main-content {
     display: flex;
-}
-
-#main-content-left {
-    left: 0%;
-}
-
-#main-content-right {
-    right: 100%;
+    gap: 300px;
 }
 
 #main-content-left-title {
